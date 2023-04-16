@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Movie Search</string>
+    <string name="nothing_found">No se encontró nada.</string>
+    <string name="something_went_wrong">Se ha producido un error</string>
+</resources>
